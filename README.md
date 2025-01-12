@@ -29,9 +29,8 @@ In this course, you will:
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/Ben10k/skills-hello-github-actions/fork)
 1. Right-click **Start course** and open the link in a new tab.
 1. In the new tab, most of the prompts will automatically fill in for you.
-    - For owner, choose your personal account or an organization to host the repository.
-    - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-    - Scroll down and click the **Create repository** button at the bottom of the form.
+    - For owner, choose your personal account to host the repository.
+    - Cnd click the **Create fork** button at the bottom of the form.
 
 1. After your new repository is created, open the [docs/1-create-a-workflow.md](docs/1-create-a-workflow.md) document in your repository and follow the instructions from there.
 
