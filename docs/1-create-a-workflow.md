@@ -17,14 +17,8 @@ To get you started, we ran an Actions workflow in your new repository that, amon
 ### :keyboard: Activity: Create a workflow file
 
 1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-1. Create a pull request. This will contain all of the changes you'll make throughout this part of the course.
-
-   Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:welcome-workflow`, click **Create pull request**, then click **Create pull request** again.
-
-1. Navigate to the **Code** tab.
-1. From the **main** branch dropdown, click on the **welcome-workflow** branch.
-1. Navigate to the `.github/workflows/` folder, then select **Add file** and click on **Create new file**.
-1. In the **Name your file** field, enter `welcome.yml`.
+1. Select **Add file** and click on **Create new file**.
+1. In the **Name your file** field, enter `.github/workflows/welcome.yml`.
 1. Add the following content to the `welcome.yml` file:
 
    ```yaml copy
@@ -37,5 +31,6 @@ To get you started, we ran an Actions workflow in your new repository that, amon
    ```
 
 1. To commit your changes, click **Commit changes**.
-1. Type a commit message, select **Commit directly to the welcome-workflow branch** and click **Commit changes**.
-1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). A separate Actions workflow in the repository (not the workflow you created) will run and will automatically replace the contents of this README file with instructions for the next step.
+1. Type a commit message, select **Create a new branch for this commit and start a pull request**, enter the new branch name `welcome-workflow` and click **Commit changes**.
+1. Finally, click **Create pull request**.
+1. In this tab, navigate to the next step in the course: [2-add-a-job.md](/docs/2-add-a-job.md)

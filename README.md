@@ -6,31 +6,34 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
-## Finish
+## Welcome
 
-_Congratulations friend, you've completed this course!_
+Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
-<img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
+- **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users.
+- **What you'll learn**: How to create workflow files, trigger workflows, and find workflow logs.
+- **What you'll build**: An Actions workflow that will check emoji shortcode references in Markdown files.
+- **Prerequisites**: In this course you will work with issues and pull requests, as well as edit files. We recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course first.
+- **How long**: This course can be finished in less than two hours.
 
-Here's a recap of all the tasks you've accomplished in your repository:
+In this course, you will:
 
-- You've created your first GitHub Actions workflow file.
-- You learned where to make your workflow file.
-- You defined an event trigger, a job, and a step for your workflow.
-- You're ready to automate anything you can dream of.
+1. Create a workflow
+2. Add a job
+3. Add a run step
+4. Merge your pull request
+5. See effect of the workflow
 
-### What's next?
+### How to start this course
 
-- Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://docs.github.com/actions/learn-github-actions)"
-- Use actions created by others in [awesome-actions](https://github.com/sdras/awesome-actions)
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions)
-- [Take another course on GitHub Actions](https://skills.github.com/#automate-workflows-with-github-actions)
-- Learn more about GitHub by reading the "[Get started](https://docs.github.com/get-started)" docs
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=hello-github-actions&owner=%40me&name=skills-hello-github-actions&description=My+clone+repository&visibility=public)
+
+1. Open the [docs/1-create-a-workflow.md](docs/1-create-a-workflow.md) document and follow the instructions from there.
 
 <footer>
 
 ---
+This lab is based on the [Hello GitHub Actions](https://github.com/skills/hello-github-actions) lab by GitHub Training.
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
